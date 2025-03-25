@@ -3,6 +3,10 @@
 #This app will accept a first and last name of a student and a gpa as an input
 #if the gpa is greater than or equal to 3.5 it will announce the student making the deans list
 #if the gpa is greater than or equal to 3.25 it will annount the student making the honor roll
+# Variables Used:
+#firstName = the first name of the student
+#lastName = the last name of the student
+#GPA = the GPA of the student
 
 # Instructions
 # Complete the following steps:
